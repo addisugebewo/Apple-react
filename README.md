@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # 🍎 React Apple Project
 
 A React-based Apple website practice project built with **React** and **Vite**.
@@ -6,13 +8,13 @@ This project is part of my web development learning journey. I built it to pract
 
 ## 🚀 Technologies Used
 
-* React
-* Vite
-* JavaScript
-* JSX
-* CSS
-* ESLint
-* Git & GitHub
+- React
+- Vite
+- JavaScript
+- JSX
+- CSS
+- ESLint
+- Git & GitHub
 
 ## 📁 Project Structure
 
@@ -33,16 +35,16 @@ react-apple/
 
 ## ✨ What I Practiced
 
-* Creating a React project with Vite
-* Understanding JSX
-* Creating reusable React components
-* Importing and displaying images
-* Using `props`
-* Organizing components into folders
-* Styling React components with CSS
-* Using JavaScript with React
-* Running a React development server
-* Using Git and GitHub to manage my project
+- Creating a React project with Vite
+- Understanding JSX
+- Creating reusable React components
+- Importing and displaying images
+- Using `props`
+- Organizing components into folders
+- Styling React components with CSS
+- Using JavaScript with React
+- Running a React development server
+- Using Git and GitHub to manage my project
 
 ## 💻 How to Run the Project
 
@@ -95,4 +97,4 @@ This project is created for **learning and educational purposes**. It is not an 
 
 ---
 
-⭐ More React projects will be added as I continue learning.
+# ⭐ More React projects will be added as I continue learning.
