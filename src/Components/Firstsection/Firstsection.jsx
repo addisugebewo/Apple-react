@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "./FirstSection.css"
 const Firstsection = () => {
   return (
     <div>
@@ -16,6 +16,7 @@ const Firstsection = () => {
 			</div> 
 
 			<div class="links-wrapper">
+				
 				<ul>
 					<li><a href="">Learn more</a></li>
 					<li><a href="">Order</a></li>

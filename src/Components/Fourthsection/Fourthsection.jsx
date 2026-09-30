@@ -1,5 +1,5 @@
-import React from 'react'
 
+import "./FourthSection.css"
 const Fourthsection = () => {
   return (
     <div>
@@ -50,4 +50,4 @@ const Fourthsection = () => {
   );
 }
 
-export default Fourthsection
+export default Fourthsection;

@@ -1,5 +1,6 @@
 import React from 'react'
 import flagImage from "../../assets/images/icons/16.png";
+import "./Footer.css"
 const Footer = () => {
   return (
     <div>

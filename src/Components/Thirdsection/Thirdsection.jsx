@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "./ThirdSection.css"
 const Thirdsection = () => {
   return (
     <div>

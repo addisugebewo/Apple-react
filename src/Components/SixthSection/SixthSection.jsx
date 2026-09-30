@@ -1,5 +1,6 @@
 import React from 'react'
 import arcadeLogo from "../../assets/images/icons/arcade.png";
+import "./SixthSection.css"
 const SixthSection = () => {
   return (
     <div>

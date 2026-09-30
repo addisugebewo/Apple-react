@@ -2,6 +2,7 @@ import React from 'react'
 import appletvlogo from "../../assets/images/icons/apple-tv-logo.png";
 import banker from "../../assets/images/home/banker.png";
 import watchSeries5Logo from "../../assets/images/icons/watch-series5-logo.png";
+import "./FifthSection.css"
 const Fifthsection = () => {
   return (
     <div>

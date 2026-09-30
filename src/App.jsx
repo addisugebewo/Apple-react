@@ -1,13 +1,10 @@
-import { useState } from "react";
-import heroImg from "./assets/hero.png";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "./assets/vite.svg";
 import "./App.css";
+import Alertsection from "./Components/Alertsection/Alertsection";
 import Header from "./Components/Header/Header";
 import Footer from "./Components/Footer/Footer";
-import Alertsection from "./Components/Alertsection/Alertsection";
-import Firstsection from "./Components/Firstsection/Firstsection";
-import Secondsection from "./Components/Secondsection/Secondsection";
+
+import FirstSection from "./Components/Firstsection/Firstsection";
+import SecondSection from "./Components/Secondsection/Secondsection";
 import Thirdsection from "./Components/Thirdsection/Thirdsection";
 import Fourthsection from "./Components/Fourthsection/Fourthsection";
 import Fifthsection from "./Components/Fifthsection/Fifthsection";
@@ -18,12 +15,12 @@ function App() {
     <>
       <Header />
       <Alertsection />
-      <Firstsection/>
-      <Secondsection/>
-      <Thirdsection/>
-      <Fourthsection/>
-      <Fifthsection/>
-      <SixthSection/>
+      <FirstSection />
+      <SecondSection />
+      <Thirdsection />
+      <Fourthsection />
+      <Fifthsection />
+      <SixthSection />
       <Footer />
     </>
   );
